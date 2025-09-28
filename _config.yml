@@ -29,3 +29,4 @@ plugins:
 
 # Custom variables
 owner : "BreachLabs"
+include: [".well-known"]
