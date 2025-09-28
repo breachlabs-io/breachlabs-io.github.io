@@ -1,0 +1,9 @@
+{
+  "subject": "acct:william.moffitt@breachlabs.io",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://breachlabs-1vrr0u.us1.zitadel.cloud"
+    }
+  ]
+}
